@@ -12,9 +12,10 @@ lasses mask anti-fogging
 The one in the photo was printed in FLASHFORGE Adventurer3.
 
 # Download
--[GlassMaskAntiFg v1.f3d]("https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg v1.f3d") Autodesk Fusion 360 Archive file
--[GlassMaskAntiFg v1.iges]("https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg v1.iges")
--[GlassMaskAntiFg v1.obj]("https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg v1.obj")
+
+- [GlassMaskAntiFg v1.f3d](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v1.f3d) Autodesk Fusion 360 Archive file
+- [GlassMaskAntiFg v1.iges](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v1.iges)
+- [GlassMaskAntiFg v1.obj](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v1.obj)
 
 # License
 [CC-BY](by.png)
@@ -24,8 +25,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
   
 原作者のクレジット（氏名、作品タイトルなど）を表示することを主な条件とし、改変はもちろん、営利目的での二次利用も許可される最も自由度の高いCCライセンス。  
   
-[[クリエイティブ・コモンズ・ライセンスとは>https://creativecommons.jp/licenses/]]  
-[[https://creativecommons.org/]]
+[クリエイティブ・コモンズ・ライセンスとは](https://creativecommons.jp/licenses/)  
+[https://creativecommons.org/](https://creativecommons.org/)
 
 # Author
 Suns & Moon Laboratory  
