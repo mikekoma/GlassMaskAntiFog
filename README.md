@@ -13,9 +13,9 @@ The one in the photo was printed in FLASHFORGE Adventurer3.
 
 # Download
 
-- [GlassMaskAntiFg v1.f3d](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v1.f3d) Autodesk Fusion 360 Archive file
-- [GlassMaskAntiFg v1.iges](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v1.iges)
-- [GlassMaskAntiFg v1.obj](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v1.obj)
+- [GlassMaskAntiFg-v1.f3d](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v1.f3d) Autodesk Fusion 360 Archive file
+- [GlassMaskAntiFg-v1.iges](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v1.iges)
+- [GlassMaskAntiFg-v1.obj](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v1.obj)
 
 # License
 [CC-BY](by.png)
