@@ -1,8 +1,7 @@
 # Glass Mask Anti-Fog
-[[index]]
 
 ## About
-Glasses mask anti-fogging  
+lasses mask anti-fogging  
 マスクの曇り止め  
 ![Photo1](1.jpg)
 ![Photo2](2.jpg)
@@ -12,12 +11,12 @@ Glasses mask anti-fogging
 
 The one in the photo was printed in FLASHFORGE Adventurer3.
 
-## Download
--[GlassMaskAntiFg v1.f3d](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg v1.f3d) Autodesk Fusion 360 Archive file
--[GlassMaskAntiFg v1.iges](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg v1.iges)
--[GlassMaskAntiFg v1.obj](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg v1.obj)
+# Download
+-[GlassMaskAntiFg v1.f3d]("https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg v1.f3d") Autodesk Fusion 360 Archive file
+-[GlassMaskAntiFg v1.iges]("https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg v1.iges")
+-[GlassMaskAntiFg v1.obj]("https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg v1.obj")
 
-## License
+# License
 [CC-BY](by.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
@@ -27,3 +26,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
   
 [[クリエイティブ・コモンズ・ライセンスとは>https://creativecommons.jp/licenses/]]  
 [[https://creativecommons.org/]]
+
+# Author
+Suns & Moon Laboratory  
+https://www.s-m-l.org  
+[twitter @mikekoma](https://twitter.com/mikekoma)
