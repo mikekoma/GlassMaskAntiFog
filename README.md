@@ -2,7 +2,7 @@
 
 ## About
 lasses mask anti-fogging  
-ƒ}ƒXƒN‚Ì“Ü‚è~‚ß  
+ãƒã‚¹ã‚¯ã®æ›‡ã‚Šæ­¢ã‚  
 ![Photo1](1.jpg)
 ![Photo2](2.jpg)
 ![Photo3](3.jpg)
@@ -18,14 +18,14 @@ The one in the photo was printed in FLASHFORGE Adventurer3.
 - [GlassMaskAntiFg-v1.obj](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v1.obj)
 
 # License
-[CC-BY](by.png)
+![CC-BY](by.png)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
-‚±‚Ìì•i‚Í[ƒNƒŠƒGƒCƒeƒBƒuEƒRƒ‚ƒ“ƒY •\¦ 4.0 ‘Û ƒ‰ƒCƒZƒ“ƒX](http://creativecommons.org/licenses/by/4.0/)‚Ì‰º‚É’ñ‹Ÿ‚³‚ê‚Ä‚¢‚Ü‚·B  
+ã“ã®ä½œå“ã¯[ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ãƒ»ã‚³ãƒ¢ãƒ³ã‚º è¡¨ç¤º 4.0 å›½éš› ãƒ©ã‚¤ã‚»ãƒ³ã‚¹](http://creativecommons.org/licenses/by/4.0/)ã®ä¸‹ã«æä¾›ã•ã‚Œã¦ã„ã¾ã™ã€‚  
   
-Œ´ìÒ‚ÌƒNƒŒƒWƒbƒgi–¼Aì•iƒ^ƒCƒgƒ‹‚È‚Çj‚ğ•\¦‚·‚é‚±‚Æ‚ğå‚ÈğŒ‚Æ‚µA‰ü•Ï‚Í‚à‚¿‚ë‚ñA‰c—˜–Ú“I‚Å‚Ì“ñŸ—˜—p‚à‹–‰Â‚³‚ê‚éÅ‚à©—R“x‚Ì‚‚¢CCƒ‰ƒCƒZƒ“ƒXB  
+åŸä½œè€…ã®ã‚¯ãƒ¬ã‚¸ãƒƒãƒˆï¼ˆæ°åã€ä½œå“ã‚¿ã‚¤ãƒˆãƒ«ãªã©ï¼‰ã‚’è¡¨ç¤ºã™ã‚‹ã“ã¨ã‚’ä¸»ãªæ¡ä»¶ã¨ã—ã€æ”¹å¤‰ã¯ã‚‚ã¡ã‚ã‚“ã€å–¶åˆ©ç›®çš„ã§ã®äºŒæ¬¡åˆ©ç”¨ã‚‚è¨±å¯ã•ã‚Œã‚‹æœ€ã‚‚è‡ªç”±åº¦ã®é«˜ã„CCãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã€‚  
   
-[ƒNƒŠƒGƒCƒeƒBƒuEƒRƒ‚ƒ“ƒYEƒ‰ƒCƒZƒ“ƒX‚Æ‚Í](https://creativecommons.jp/licenses/)  
+[ã‚¯ãƒªã‚¨ã‚¤ãƒ†ã‚£ãƒ–ãƒ»ã‚³ãƒ¢ãƒ³ã‚ºãƒ»ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã¨ã¯](https://creativecommons.jp/licenses/)  
 [https://creativecommons.org/](https://creativecommons.org/)
 
 # Author
