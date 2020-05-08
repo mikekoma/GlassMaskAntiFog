@@ -7,10 +7,10 @@ Glasses mask anti-fogging
 私が花粉症で、花粉除け眼鏡＋マスクで外出するときに眼鏡曇ってこまるなーという事で作成しました。
 設計は適当で、使ってはデータを切った張った(Push､Pull)で作成しています。
 
-GEN2
+### GEN2
 ![Photo4](4_gen2.jpg)
 
-GEN1
+### GEN1
 ![Photo1](1.jpg)
 ![Photo2](2.jpg)
 ![Photo3](3.jpg)
@@ -20,11 +20,11 @@ The one in the photo was printed in FLASHFORGE Adventurer3.
 
 # Download
 
-GEN2
+## GEN2
 - [GlassMaskAntiFg-v1.f3d](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-GEN2-v1) Autodesk Fusion 360 Archive file
 - [GlassMaskAntiFg-v1.obj](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-GEN2-v1)
 
-GEN1
+## GEN1
 - [GlassMaskAntiFg-v1.f3d](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v7.f3d) Autodesk Fusion 360 Archive file
 - [GlassMaskAntiFg-v1.obj](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-v7.stl)
 
