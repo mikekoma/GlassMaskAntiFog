@@ -8,6 +8,10 @@ Glasses mask anti-fogging
 設計は適当で、使ってはデータを切った張った(Push､Pull)で作成しています。
 
 ### GEN2
+v3
+![Photo4](5_gen2v3.jpg)
+
+v1
 ![Photo4](4_gen2.jpg)
 
 ### GEN1
@@ -21,6 +25,9 @@ The one in the photo was printed in FLASHFORGE Adventurer3.
 # Download
 
 ## GEN2
+- [GlassMaskAntiFg-v3.f3d](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-GEN2-v3) Autodesk Fusion 360 Archive file
+- [GlassMaskAntiFg-v3.obj](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-GEN2-v3)
+
 - [GlassMaskAntiFg-v1.f3d](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-GEN2-v1) Autodesk Fusion 360 Archive file
 - [GlassMaskAntiFg-v1.obj](https://github.com/mikekoma/GlassMaskAntiFog/GlassMaskAntiFg-GEN2-v1)
 
